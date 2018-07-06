@@ -1,0 +1,100 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/*Fonts*/
+.chosen-number {
+	color: #ED458B;
+	display: block;
+	font-size: 8rem;
+	margin: 0.25rem auto;
+	width: 30rem;
+}
+
+/*Layout*/
+header {
+	background-color: #404041;
+	text-align: center;
+	height: 70px;
+}
+
+h1 {
+	color: #ED458B;
+	width: 300px;
+	height: 50px;
+	margin: auto;
+	position: relative;
+	top: 10px;
+}
+
+input {
+	display: block;
+	font-size: 1rem;
+	margin: 2rem auto;
+	width: 17rem;
+}
+
+span {
+	color: #E6E7E8;
+	font-weight: 300;
+}
+
+section {
+	display: block;
+	margin: 1rem auto;
+	text-align: center;
+	width: 40rem;
+}
+
+button {
+	background-color: #929497;
+	border-radius: 2rem;
+	color: #FFFFFF;
+	font-size: 1rem;
+	height: 2rem;
+	margin: 2rem 0.5rem;
+	width: 8rem;
+}
+
+button:hover {
+	background-color: #ED458B;
+	cursor: pointer;
+}
+
+button:disabled {
+	background-color: #D0D2D3;
+	cursor: auto;
+}
+
+p {
+	font-size: 1rem;
+}
+
+.header-span {
+
+}
+
+.minmax-section {
+
+}
+
+.minmax-input {
+	display: inline-block;
+	font-size: 0.85rem;
+	margin: auto;
+	width: 7.5rem;
+}
+
+.results:
+	{
+	display: block;
+	margin: 2rem;
+}
+
+.results button {
+	margin: 1rem;
+	width: 17rem;
+}
